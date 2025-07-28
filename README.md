@@ -1,14 +1,20 @@
 # 👋 Hi, I'm Cris
 
 🎓 CS Student @ SKKU  
-💡 Interested in Artificial Intelligence and Algorithms  
-💻 Studying mainly with C++ and Python
+💡 Passionate about Artificial Intelligence and Algorithmic Thinking  
+💻 Mainly working with **C++** and **Python**
+
+⚽ I'm a fan of **Suwon Samsung Bluewings**  
+<img src="https://i.namu.wiki/i/VGiyxZpzKIRIjI6mKFkb0knkGYcSNx-zYcC1KMpZNGRfkF71rkDKbkvrR9BdaqyI6mMkYBWTQiFkXHoh2aq4e9-EXHSdUBFt8ByyD0AG2NO5_VGojLHRAH8NSfmOur6mgbCb1qiC973RbqEpapW9zw.svg" width="120"/>
+
+🎧 My favorite song is [**한로로 – 도망**](https://www.youtube.com/watch?v=nhntH2wn3m0&list=RDnhntH2wn3m0&start_radio=1&ab_channel=%ED%95%9C%EB%A1%9C%EB%A1%9CHANRORO)
 
 ---
 
 ### 🛠️ Tech Stack
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
@@ -18,5 +24,5 @@
 ---
 
 ### 🌱 Currently Learning
-- Deep Learning with PyTorch
-- Problem Solving with C++
+- Neural Networks & PyTorch
+- Data Structures & Competitive Programming
